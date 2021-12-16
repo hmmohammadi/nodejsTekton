@@ -1,0 +1,22 @@
+{
+  "name": "simple-nodejs-app",
+  "version": "0.0.1",
+  "description": "A simple nodejs app echoing hello world and a static version #. GitHub URL: https://github.com/dewan-ahmed/simple-nodejs-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewan-ahmed/simple-nodejs-app.git"
+  },
+  "author": "Dewan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewan-ahmed/simple-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/dewan-ahmed/simple-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
